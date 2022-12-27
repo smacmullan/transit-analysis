@@ -1,0 +1,17 @@
+{
+  "name": "transit-analysis",
+  "version": "1.0.0",
+  "description": "Analyze transit data",
+  "main": "transit-analysis.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "transit"
+  ],
+  "author": "Sean MacMullan",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
